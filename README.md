@@ -1,86 +1,74 @@
 ## Hi there 👋 I'm Farhan Ahmed
 
-I’m a Full Stack Web & Mobile App Developer passionate about building modern, responsive, and user-centric applications using the MERN stack and React Native. I love solving real-world problems with clean code and intuitive design.
+React Native engineer and full-stack developer focused on SDK integrations, real-time messaging, push/VoIP workflows, and secure web platforms. I like shipping production-ready mobile features, clear developer docs, and clean UI.
 
 ### 🚀 Portfolio
-Check out my live projects and portfolio:  
 🔗 [Visit Portfolio](https://portfolio-farhan-ahmeds-projects-10079003.vercel.app/)
 
----
 ### 🚀 Resume
-Have a look at my resume:  
 🔗 [View Resume](https://drive.google.com/file/d/1CJZy8jkhJ2gxSFkb9NqDB-rJrCgWmr2z/view)
 
 ---
 
 ### 🛠️ Technical Skills
 
-**Frontend:**  
-React.js, Redux Toolkit, React Router DOM, Tailwind CSS, Bootstrap, JavaScript (ES6+), HTML, CSS, Axios, Formik, Yup, Toastify, React Icons
+**Languages:** JavaScript (ES6+), TypeScript, HTML, CSS
 
-**Mobile Development:**  
-React Native (Expo), React Navigation, Expo Location, React Native Paper, Vector Icons
+**Frontend:** React.js, Redux Toolkit, React Router DOM, Tailwind CSS, Bootstrap, Axios, Formik, Yup
 
-**Backend:**  
-Node.js, Express.js, REST APIs, JWT, Bcrypt, Multer, CORS
+**Mobile:** React Native (CLI & Expo), React Navigation, React Native Paper, Expo Location, Firebase, FCM, APNs, VoIP notifications, CometChat SDK, WebSocket workflows
 
-**Database:**  
-MongoDB, Mongoose
+**Backend:** Node.js, Express.js, REST APIs, JWT, bcrypt, Multer, CORS
 
-**Tools & Platforms:**  
-Git, GitHub, Vercel, Render, Postman, MongoDB Compass, VS Code
+**Database:** MongoDB, Mongoose
 
-**Integrations:**  
-Cloudinary, Nodemailer, Unirest, Cookie-parser
+**Tools:** Git, GitHub, Postman, VS Code, MongoDB Compass, Vercel, Render
 
-**Other Skills:**  
-Microsoft Excel (VLOOKUP, Nested IFs, Conditional Formatting), AutoCAD (Land Plotting)
+**Integrations:** Cloudinary, Nodemailer
+
+**AI-assisted development:** Cursor, Kiro, context engineering, prompt-driven workflows
+
+**Other:** Microsoft Excel (VLOOKUP, nested IFs, conditional formatting), AutoCAD (land plotting)
 
 ---
 
-### 🧠 Currently Learning
-- Advanced mobile development with React Native
-- Performance optimization for large-scale applications
-- Exploring DevOps and deployment automation
+### 🧠 Currently 
+- Release hardening and performance tuning for large React Native apps
+- DevOps and deployment automation
 
 ---
 
 ### 👨‍💻 Experience
 
-**Full Stack Web & Mobile App Development Intern**  
-_Skillhub IT Solutions (June 2024 – Present)_  
-- Built real-world e-commerce and delivery apps with MERN and React Native  
-- Implemented secure authentication, Redux state, and RESTful APIs  
-- Practiced responsive UI design and collaborative Git workflows
+**Trainee Engineer — Technical Support & React Native Development** · *CometChat* · *May 2025 – Present*  
+- Production React Native work: localization, badges, notifications, UI Kit customizations; SDK support across FCM/APNs, VoIP, messaging, and auth.  
+- Debugged and shipped fixes across release cycles; improved integration docs and onboarding.  
+- Developer support via tickets, email, and calls; validated features with REST, webhooks, Firebase, Postman, and CometChat APIs.
+
+**MERN stack web & mobile internship** · *Skillhub IT Solutions* · *Jun 2024 – May 2025*  
+- Built e-commerce and delivery-style apps with MERN and React Native; auth, Redux, REST APIs, and responsive UI.
 
 ---
 
 ### 💼 Projects
 
-**Shop Ease – Full Stack E-Commerce Platform**  
-React.js, Redux Toolkit, Bootstrap, Node.js, MongoDB  
-- JWT/Bcrypt authentication, Cloudinary for image uploads  
-- Full CRUD operations, Formik/Yup validation
+**PlotVista** — Real estate ops: RBAC, approvals, biometric login, map-based plots, bookings, chat/notifications, dashboards, exports (React Native, Node, Express, MongoDB).
 
-**DineDash – Food Delivery & Management App**  
-React Native (Expo), Express.js, MongoDB, Nodemailer  
-- Customer & Rider Android apps, Web admin panels  
-- Real-time order management, third-party API integration
+**CometChat React Native UI Kit** — Open-source contributions: bug fixes, enhancements, and release/regression support.
+
+**Shop Ease** — Full-stack e-commerce: JWT, Redux, Cloudinary, REST APIs (React, Node, MongoDB).
+
+**DineDash** — Food delivery: customer/rider apps, admin flows, orders and tracking (React Native, Node, MongoDB).
 
 ---
 
-### 🎓 Education & Certifications
+### 🎓 Education & certifications
 
-**B.Tech in Information Technology**  
-MGM’s Jawaharlal Nehru Engineering College (CGPA: 7.79)
+**B.Tech, Information Technology** — MGM’s Jawaharlal Nehru Engineering College (CGPA: 7.79) · *2021 – 2025*
 
-**Certifications:**  
-- MERN Full Stack & Mobile App Development – Skillhub IT Solutions  
-- Frontend Web Development – Cuvette
+**Certifications:** MERN stack web & mobile (Skillhub IT Solutions) · Frontend web development (Cuvette)
 
 ---
 
-### 📫 Let's Connect
-Feel free to reach out or explore my work here on GitHub. I'm open to collaborations, freelance projects, or just a friendly tech chat!
-
----
+### 📫 Let's connect
+Open to collaborations and freelance work—reach out here on GitHub or via my portfolio.
