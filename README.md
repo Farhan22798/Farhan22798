@@ -9,7 +9,7 @@ Check out my live projects and portfolio:
 ---
 ### 🚀 Resume
 Have a look at my resume:  
-🔗 [View Resume](https://drive.google.com/file/d/1YLCNKTGymKXh3aw80XTSwrL4vH79HdRz/view?usp=drive_link)
+🔗 [View Resume](https://drive.google.com/file/d/1CJZy8jkhJ2gxSFkb9NqDB-rJrCgWmr2z/view)
 
 ---
 
