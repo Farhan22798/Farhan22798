@@ -18,7 +18,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=4F8CFF&label=Profile+Views" alt="profile views" />
+
 
 </div>
 
